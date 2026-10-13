@@ -1,6 +1,3 @@
-# multilingual-dictionary
-A Python command-line dictionary that translates words between Turkish, English and French using JSON data.
-
 # 🌍 Multilingual Dictionary – Turkish · English · French
 
 A command-line dictionary app written in Python that translates words between **Turkish, English and French**. Languages and words are stored in JSON files, so the dictionary can be extended without changing the code.
@@ -34,7 +31,7 @@ A command-line dictionary app written in Python that translates words between **
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/multilingual-dictionary.git
+   git clone https://github.com/eogultekin/multilingual-dictionary.git
    cd multilingual-dictionary
    ```
 2. Run the program:
@@ -87,4 +84,3 @@ Open `words.json` and add a new entry in the same format:
 ## 👤 Author
 
 **Ezgi Oğultekin** – Computer Engineering student at Piri Reis University
-

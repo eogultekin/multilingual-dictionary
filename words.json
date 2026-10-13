@@ -1,0 +1,52 @@
+[
+{
+    "Türkçe": "ağaç",
+    "Ingilizce": "tree",
+    "Fransizca": "arbre"
+  },
+  {
+    "Türkçe": "ev",
+    "Ingilizce": "house",
+    "Fransizca": "maison"
+  },
+  {
+    "Türkçe": "ekmek",
+    "Ingilizce": "bread",
+    "Fransizca": "pain"
+  },
+  {
+    "Türkçe": "aslan",
+    "Ingilizce": "lion",
+    "Fransizca": "lion"
+  },
+   {
+    "Türkçe": "erkek",
+    "Ingilizce": "man",
+    "Fransizca": "mâle"
+  },
+  {
+    "Türkçe": "kadın",
+    "Ingilizce": "woman",
+    "Fransizca": "femme"
+  },
+  {
+    "Türkçe": "çocuk",
+    "Ingilizce": "child",
+    "Fransizca": "enfant"
+  },
+  {
+    "Türkçe": "merhaba",
+    "Ingilizce": "hello",
+    "Fransizca": "bonjour"
+  },
+  {
+    "Türkçe": "telefon",
+    "Ingilizce": "phone",
+    "Fransizca": "téléphone"
+  },
+  {
+    "Türkçe": "bilgisayar",
+    "Ingilizce": "computer",
+    "Fransizca": "ordinateur"
+  }
+]
